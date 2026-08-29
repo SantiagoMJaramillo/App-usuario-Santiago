@@ -1,8 +1,10 @@
 function Footer() {
   return (
+    <>
     <footer className="footer">
-      <p>© {new Date().getFullYear()} App Usuarios. Todos los derechos reservados.</p>
+      <p>© 2026 App Usuarios. Todos los derechos reservados.</p>
     </footer>
+    </>
   );
 }
 
